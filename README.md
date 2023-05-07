@@ -1,5 +1,4 @@
 # Grid Project
----
 
 ## Responsive Grid Gallery
 
